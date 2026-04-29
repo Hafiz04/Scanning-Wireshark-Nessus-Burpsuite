@@ -23,3 +23,8 @@ In packet 213, the user sends a RETR (Retrieve) command for a file
 
 Find Packet 216 in your packet list and found out that there is shortened URL
 ![image alt](https://github.com/Hafiz04/Scanning-Wireshark-Nessus-Burpsuite/blob/a9b4cba4ce3548b24d77a80fa194e6a773e4b6ac/packet%20216.png)
+
+4th step- Type the URL in browser
+
+Image contains a message written in the Tic-Tac-Toe Code (also known as the Pigpen Cipher)
+![image alt]()
