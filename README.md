@@ -27,4 +27,4 @@ Find Packet 216 in your packet list and found out that there is shortened URL
 4th step- Type the URL in browser
 
 Image contains a message written in the Tic-Tac-Toe Code (also known as the Pigpen Cipher)
-![image alt]()
+![image alt](https://github.com/Hafiz04/Scanning-Wireshark-Nessus-Burpsuite/blob/48e4e0d1b827cc924f0bda76df8cc2df879af3a5/tinyurl.png)
