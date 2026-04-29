@@ -17,3 +17,4 @@ __Question 2: Analyse packet2.pcap and find the flag.__
 2nd step- Looking at the login sequence or by extracting files transferred during the session
 
 In packet 213, the user sends a RETR (Retrieve) command for a file
+![image alt](https://github.com/Hafiz04/Scanning-Wireshark-Nessus-Burpsuite/blob/82ad0a139007bf7adad2882cc26edd7007e66da4/packet%20213.png)
