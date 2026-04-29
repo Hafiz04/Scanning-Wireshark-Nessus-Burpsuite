@@ -18,3 +18,8 @@ __Question 2: Analyse packet2.pcap and find the flag.__
 
 In packet 213, the user sends a RETR (Retrieve) command for a file
 ![image alt](https://github.com/Hafiz04/Scanning-Wireshark-Nessus-Burpsuite/blob/82ad0a139007bf7adad2882cc26edd7007e66da4/packet%20213.png)
+
+3rd step- The actual content of the file global_thermonuclear_war.gamerules.txt is inside packet 216.
+
+Find Packet 216 in your packet list and found out that there is shortened URL
+![image alt]()
