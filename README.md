@@ -10,3 +10,6 @@ __Question 1: Analyse packet1.pcap and find the flag.__
 ![image alt](https://github.com/Hafiz04/Scanning-Wireshark-Nessus-Burpsuite/blob/c72ad95e89943a8540313afb23fa10b3b65e5255/decode.png)
 
 __Question 2: Analyse packet2.pcap and find the flag.__
+
+1st step- Filter ftp protocol only
+![image alt](https://github.com/Hafiz04/Scanning-Wireshark-Nessus-Burpsuite/blob/e1e0da3af360578b775af7dea127ce9ac79902f6/filter%20ftp.png)
