@@ -13,3 +13,6 @@ __Question 2: Analyse packet2.pcap and find the flag.__
 
 1st step- Filter ftp protocol only
 ![image alt](https://github.com/Hafiz04/Scanning-Wireshark-Nessus-Burpsuite/blob/e1e0da3af360578b775af7dea127ce9ac79902f6/filter%20ftp.png)
+
+2nd step- Looking at the login sequence or by extracting files transferred during the session
+In packet 213, the user sends a RETR (Retrieve) command for a file
